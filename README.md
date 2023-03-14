@@ -1,4 +1,4 @@
-#NFT Price Visualization(React, JS, AntD, Rechart, MoralisApi)
+# NFT Price Visualization(React, JS, AntD, Rechart, MoralisApi)
 
 # The link of this application:
 
