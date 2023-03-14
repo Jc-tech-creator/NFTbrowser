@@ -1,6 +1,6 @@
 #NFT Price Visualization(React, JS, AntD, Rechart, MoralisApi)
 
-#The link of this application:
+# The link of this application:
 
 https://prod.d2llfcc8o2gj0f.amplifyapp.com
 
